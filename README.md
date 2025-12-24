@@ -7,7 +7,8 @@
 - **最新版本**: 1.0.0
 - **更新日期**: 2025/10/8
 - **下载地址**:  https://github.com/vam876/FastMonitor/releases
-  
+- **作者其他项目推荐**:  [WEB日志可视化分析工具](https://github.com/vam876/FastWLAT)  **|**  [图形化Windows日志安全分析工具](https://github.com/vam876/FastWinLog)  **|**  [图形化Linux日志安全分析工具](https://github.com/vam876/FastLinLog)
+
 ### 核心特性
 
 - 🚀 **高性能抓包引擎**: 基于 gopacket/pcap 实现,支持数据包实时处理，并对五元组会话/DNS/ICMP/HTTP进行分类展示
